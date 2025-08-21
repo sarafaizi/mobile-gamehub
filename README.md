@@ -3,3 +3,9 @@ A simple game store interface built with React Native &amp; Expo. It includes gr
 
 
 <img width="242" height="489" alt="Screenshot 2025-08-21 at 23 50 12" src="https://github.com/user-attachments/assets/480514c8-2b31-4d9d-b021-f79a18fda97a" />
+
+
+Get Started
+install dev
+
+npm install or yarn install
